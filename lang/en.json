@@ -1,0 +1,11 @@
+{
+	"SHEET-COMMANDER": {
+		"close-active-hotkey": "Close active window",
+		"close-under-mouse-hotkey": "Close window under mouse",
+		"meta-move": "Hold CMD/Windows-key to move window under cursor",
+		"alt-move": "Hold Alt to move window under cursor",
+		"ctrl-move": "Hold Control to move window under cursor",
+		"shift-move": "Hold Shift to move window under cursor",
+		"move-hint": "If you select multiple modifier keys, they all need to be pressed for the action to trigger. If you select none, the function will be disabled."
+	}
+}

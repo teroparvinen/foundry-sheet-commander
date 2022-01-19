@@ -1,0 +1,23 @@
+{
+	"name": "sheet-commander",
+	"title": "Sheet Commander",
+	"description": "Move sheets from anywhere using a modifier key.",
+	"authors": [
+		{
+			"name": "Tero Parvinen"
+		}
+	],
+	"version": "1.0",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+	"esmodules": [
+		"./module/sheet-commander.js"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "./lang/en.json"
+		}
+	]
+}
