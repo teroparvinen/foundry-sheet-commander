@@ -10,7 +10,7 @@
     "version": "10.0",
     "compatibility": {
         "minimum": 10,
-        "verified": 10
+        "verified": 11
     },
     "esmodules": [
         "./module/sheet-commander.js"
